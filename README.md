@@ -14,7 +14,7 @@ so that humans can actually spend their time doing things machines cannot.
 
 Use Jenkins to automate your development workflow so you can focus on work that matters most. Jenkins is commonly used for:
 
-- Building projects
+- Building project
 - Running tests to detect bugs and other issues as soon as they are introduced
 - Static code analysis
 - Deployment
